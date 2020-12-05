@@ -37,15 +37,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-
-# print(FILE)
-# FileIN = open("FILE", "r")
-# os.chdir("\Outputs")
-# FileOUT = open("FILE", "w")
-
-# pos = int(input("Pos: "))
-# sz = int(input("Len: "))
-
-# FileData = readline(FileIN)
-
