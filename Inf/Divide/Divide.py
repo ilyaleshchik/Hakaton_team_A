@@ -25,10 +25,10 @@ def main():
             b = [x for x in a if x != '']
             tmp += b[1]
             if(b[2] == 'S'):
-                if(len(tmp) > 5):
+                if(len(tmp) > 9):
                     fout.write(tmp + "\n")
                 tmp = ""
-        if(len(tmp) > 5):
+        if(len(tmp) > 9):
             fout.write(tmp + "\n")
         tmp = ""
 
