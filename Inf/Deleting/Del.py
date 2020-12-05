@@ -9,7 +9,7 @@ def GetFile(name):
     os.chdir("Inputs")
     ret = open(name, "r")
     os.chdir("../")
-    return ret
+    return ret  
 
 
 def main():
