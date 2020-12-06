@@ -1,0 +1,16 @@
+Allele    #    Start    End    Sequence    Method used    Percentile Rank
+HLA-DPA101:03/DPB102:01    1    165    179    NCTFEYVSQPFLMDL    Consensus (CombLib.,SMM,NN)    0.55
+HLA-DPA101:03/DPB102:01    1    166    180    CTFEYVSQPFLMDLE    Consensus (CombLib.,SMM,NN)    0.58
+HLA-DPA101:03/DPB102:01    1    54    68    LFLPFFSNVTWFHAI    Consensus (CombLib.,SMM,NN)    0.59
+HLA-DPA101:03/DPB102:01    1    167    181    TFEYVSQPFLMDLEG    Consensus (CombLib.,SMM,NN)    0.71
+HLA-DPA101:03/DPB102:01    1    53    67    DLFLPFFSNVTWFHA    Consensus (CombLib.,SMM,NN)    0.79
+HLA-DPA101:03/DPB102:01    1    55    69    FLPFFSNVTWFHAIH    Consensus (CombLib.,SMM,NN)    0.79
+HLA-DPA101:03/DPB102:01    1    56    70    LPFFSNVTWFHAIHV    Consensus (CombLib.,SMM,NN)    0.84
+HLA-DPA101/DPB104:01    1    54    68    LFLPFFSNVTWFHAI    Consensus (CombLib.,SMM,NN)    0.54
+HLA-DPA101/DPB104:01    1    52    66    QDLFLPFFSNVTWFH    Consensus (CombLib.,SMM,NN)    0.56
+HLA-DPA101/DPB104:01    1    166    180    CTFEYVSQPFLMDLE    Consensus (CombLib.,SMM,NN)    0.57
+HLA-DPA101/DPB104:01    1    167    181    TFEYVSQPFLMDLEG    Consensus (CombLib.,SMM,NN)    0.57
+HLA-DPA101/DPB104:01    1    53    67    DLFLPFFSNVTWFHA    Consensus (CombLib.,SMM,NN)    0.67
+HLA-DPA101/DPB104:01    1    165    179    NCTFEYVSQPFLMDL    Consensus (CombLib.,SMM,NN)    0.68
+HLA-DPA101/DPB104:01    1    168    182    FEYVSQPFLMDLEGK    Consensus (CombLib.,SMM,NN)    0.93
+HLA-DPA101/DPB104:01    1    133    147    FQFCNDPFLGVYYHK    Consensus (CombLib.,SMM,NN)    0.95

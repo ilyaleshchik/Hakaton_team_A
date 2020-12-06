@@ -1,0 +1,3 @@
+HLA-DPA101:03/DPB102:01    1    291    305    KRSFIEDLLFNKVTL    Consensus (CombLib.,SMM,NN)    0.57
+HLA-DPA101:03/DPB102:01    1    290    304    SKRSFIEDLLFNKVT    Consensus (CombLib.,SMM,NN)    0.59
+HLA-DPA101:03/DPB102:01    1    289    303    PSKRSFIEDLLFNKV    Consensus (CombLib.,SMM,NN)    0.60
