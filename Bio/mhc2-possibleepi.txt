@@ -1,0 +1,89 @@
+из S(A)
+TRFQTLLALHRSYL	0.06  -  FQTLLALHR
+                         ITRFQTLLA
+                         LLALHRSYL 0.13
+						 VTWFHAIHV 0.48
+						 FLPFFSNVT 0.79
+MHC-II Binding Prediction Results
+-----------
+Method used: recommended
+allele	seq_num	start	end	length	method	peptide	percentile_rank	adjusted_rank	comblib_core	comblib_score	comblib_rank	comblib_adjusted_rank	smm_align_core	smm_align_ic50	smm_align_rank	smm_align_adjusted_rank	nn_align_core	nn_align_ic50	nn_align_rank	nn_align_adjusted_rank	netmhciipan_core	netmhciipan_ic50	netmhciipan_rank	netmhciipan_adjusted_rank	sturniolo_core	sturniolo_score	sturniolo_rank	sturniolo_adjusted_rank
+HLA-DRB1*04:15	1	236	249	14	NetMHCIIpan	TRFQTLLALHRSYL	0.06	0.06	-	-	-	-	-	-	-	-	-	-	-	-	FQTLLALHR	51.20	0.06	0.06	-	-	-	-
+HLA-DRB1*04:12	1	232	247	16	NetMHCIIpan	GINITRFQTLLALHRS	0.06	0.07	-	-	-	-	-	-	-	-	-	-	-	-	ITRFQTLLA	148.95	0.06	0.07	-	-	-	-
+HLA-DRB1*04:15	1	235	249	15	NetMHCIIpan	ITRFQTLLALHRSYL	0.07	0.07	-	-	-	-	-	-	-	-	-	-	-	-	FQTLLALHR	51.60	0.07	0.07	-	-	-	-
+HLA-DRB1*04:12	1	234	249	16	NetMHCIIpan	NITRFQTLLALHRSYL	0.06	0.07	-	-	-	-	-	-	-	-	-	-	-	-	FQTLLALHR	145.42	0.06	0.07	-	-	-	-
+HLA-DRB1*04:15	1	236	250	15	NetMHCIIpan	TRFQTLLALHRSYLT	0.07	0.07	-	-	-	-	-	-	-	-	-	-	-	-	FQTLLALHR	53.55	0.07	0.07	-	-	-	-
+HLA-DRB1*04:15	1	235	250	16	NetMHCIIpan	ITRFQTLLALHRSYLT	0.07	0.08	-	-	-	-	-	-	-	-	-	-	-	-	FQTLLALHR	69.16	0.07	0.08	-	-	-	-
+HLA-DRB1*04:15	1	234	249	16	NetMHCIIpan	NITRFQTLLALHRSYL	0.07	0.08	-	-	-	-	-	-	-	-	-	-	-	-	FQTLLALHR	69.84	0.07	0.08	-	-	-	-
+HLA-DRB1*04:12	1	232	248	17	NetMHCIIpan	GINITRFQTLLALHRSY	0.05	0.09	-	-	-	-	-	-	-	-	-	-	-	-	ITRFQTLLA	168.92	0.05	0.09	-	-	-	-
+HLA-DRB1*04:12	1	233	248	16	NetMHCIIpan	INITRFQTLLALHRSY	0.08	0.09	-	-	-	-	-	-	-	-	-	-	-	-	FQTLLALHR	150.17	0.08	0.09	-	-	-	-
+HLA-DRB1*04:15	1	233	248	16	NetMHCIIpan	INITRFQTLLALHRSY	0.08	0.09	-	-	-	-	-	-	-	-	-	-	-	-	FQTLLALHR	80.04	0.08	0.09	-	-	-	-
+HLA-DRB1*04:12	1	233	249	17	NetMHCIIpan	INITRFQTLLALHRSYL	0.05	0.09	-	-	-	-	-	-	-	-	-	-	-	-	FQTLLALHR	165.51	0.05	0.09	-	-	-	-
+HLA-DRB1*04:15	1	233	249	17	NetMHCIIpan	INITRFQTLLALHRSYL	0.05	0.09	-	-	-	-	-	-	-	-	-	-	-	-	FQTLLALHR	94.28	0.05	0.09	-	-	-	-
+HLA-DRB1*04:15	1	235	248	14	NetMHCIIpan	ITRFQTLLALHRSY	0.08	0.09	-	-	-	-	-	-	-	-	-	-	-	-	FQTLLALHR	56.72	0.08	0.09	-	-	-	-
+HLA-DRB1*04:15	1	235	251	17	NetMHCIIpan	ITRFQTLLALHRSYLTP	0.05	0.09	-	-	-	-	-	-	-	-	-	-	-	-	FQTLLALHR	95.76	0.05	0.09	-	-	-	-
+HLA-DRB1*04:15	1	234	248	15	NetMHCIIpan	NITRFQTLLALHRSY	0.09	0.09	-	-	-	-	-	-	-	-	-	-	-	-	FQTLLALHR	59.00	0.09	0.09	-	-	-	-
+HLA-DRB1*04:15	1	234	250	17	NetMHCIIpan	NITRFQTLLALHRSYLT	0.05	0.09	-	-	-	-	-	-	-	-	-	-	-	-	FQTLLALHR	92.01	0.05	0.09	-	-	-	-
+HLA-DRB1*04:15	1	237	250	14	NetMHCIIpan	RFQTLLALHRSYLT	0.08	0.09	-	-	-	-	-	-	-	-	-	-	-	-	FQTLLALHR	57.71	0.08	0.09	-	-	-	-
+HLA-DRB1*04:15	1	236	251	16	NetMHCIIpan	TRFQTLLALHRSYLTP	0.08	0.09	-	-	-	-	-	-	-	-	-	-	-	-	FQTLLALHR	77.64	0.08	0.09	-	-	-	-
+HLA-DRB1*12:15	1	236	250	15	NetMHCIIpan	TRFQTLLALHRSYLT	0.10	0.10	-	-	-	-	-	-	-	-	-	-	-	-	FQTLLALHR	73.12	0.10	0.10	-	-	-	-
+HLA-DRB1*12:15	1	235	249	15	NetMHCIIpan	ITRFQTLLALHRSYL	0.11	0.11	-	-	-	-	-	-	-	-	-	-	-	-	FQTLLALHR	76.31	0.11	0.11	-	-	-	-
+HLA-DRB1*04:15	1	237	249	13	NetMHCIIpan	RFQTLLALHRSYL	0.07	0.11	-	-	-	-	-	-	-	-	-	-	-	-	FQTLLALHR	70.35	0.07	0.11	-	-	-	-
+HLA-DRB1*12:15	1	237	250	14	NetMHCIIpan	RFQTLLALHRSYLT	0.11	0.12	-	-	-	-	-	-	-	-	-	-	-	-	FQTLLALHR	80.61	0.11	0.12	-	-	-	-
+HLA-DRB1*04:15	1	237	251	15	NetMHCIIpan	RFQTLLALHRSYLTP	0.12	0.12	-	-	-	-	-	-	-	-	-	-	-	-	FQTLLALHR	65.11	0.12	0.12	-	-	-	-
+HLA-DRB1*04:15	1	236	248	13	NetMHCIIpan	TRFQTLLALHRSY	0.08	0.12	-	-	-	-	-	-	-	-	-	-	-	-	FQTLLALHR	78.09	0.08	0.12	-	-	-	-
+HLA-DRB1*04:12	1	233	247	15	NetMHCIIpan	INITRFQTLLALHRS	0.13	0.13	-	-	-	-	-	-	-	-	-	-	-	-	ITRFQTLLA	135.20	0.13	0.13	-	-	-	-
+HLA-DRB1*04:12	1	235	249	15	NetMHCIIpan	ITRFQTLLALHRSYL	0.13	0.13	-	-	-	-	-	-	-	-	-	-	-	-	FQTLLALHR	135.31	0.13	0.13	-	-	-	-
+HLA-DRB1*12:15	1	235	250	16	NetMHCIIpan	ITRFQTLLALHRSYLT	0.11	0.13	-	-	-	-	-	-	-	-	-	-	-	-	FQTLLALHR	84.01	0.11	0.13	-	-	-	-
+HLA-DRB1*04:12	1	234	248	15	NetMHCIIpan	NITRFQTLLALHRSY	0.13	0.13	-	-	-	-	-	-	-	-	-	-	-	-	FQTLLALHR	133.20	0.13	0.13	-	-	-	-
+HLA-DRB1*15:12	1	237	250	14	NetMHCIIpan	RFQTLLALHRSYLT	0.12	0.13	-	-	-	-	-	-	-	-	-	-	-	-	LLALHRSYL	48.18	0.12	0.13	-	-	-	-
+HLA-DRB1*04:12	1	231	247	17	NetMHCIIpan	IGINITRFQTLLALHRS	0.08	0.14	-	-	-	-	-	-	-	-	-	-	-	-	ITRFQTLLA	184.95	0.08	0.14	-	-	-	-
+HLA-DRB1*15:12	1	235	250	16	NetMHCIIpan	ITRFQTLLALHRSYLT	0.12	0.14	-	-	-	-	-	-	-	-	-	-	-	-	FQTLLALHR	55.04	0.12	0.14	-	-	-	-
+HLA-DRB1*04:15	1	234	247	14	NetMHCIIpan	NITRFQTLLALHRS	0.13	0.14	-	-	-	-	-	-	-	-	-	-	-	-	FQTLLALHR	75.26	0.13	0.14	-	-	-	-
+HLA-DRB1*15:12	1	234	249	16	NetMHCIIpan	NITRFQTLLALHRSYL	0.12	0.14	-	-	-	-	-	-	-	-	-	-	-	-	FQTLLALHR	54.91	0.12	0.14	-	-	-	-
+HLA-DRB1*04:12	1	234	250	17	NetMHCIIpan	NITRFQTLLALHRSYLT	0.08	0.14	-	-	-	-	-	-	-	-	-	-	-	-	FQTLLALHR	181.48	0.08	0.14	-	-	-	-
+HLA-DRB1*15:12	1	237	251	15	NetMHCIIpan	RFQTLLALHRSYLTP	0.14	0.14	-	-	-	-	-	-	-	-	-	-	-	-	LALHRSYLT	46.05	0.14	0.14	-	-	-	-
+HLA-DRB1*12:15	1	236	249	14	NetMHCIIpan	TRFQTLLALHRSYL	0.13	0.14	-	-	-	-	-	-	-	-	-	-	-	-	FQTLLALHR	84.10	0.13	0.14	-	-	-	-
+HLA-DRB1*15:12	1	236	250	15	NetMHCIIpan	TRFQTLLALHRSYLT	0.14	0.14	-	-	-	-	-	-	-	-	-	-	-	-	FQTLLALHR	45.95	0.14	0.14	-	-	-	-
+HLA-DRB1*04:12	1	232	246	15	NetMHCIIpan	GINITRFQTLLALHR	0.15	0.15	-	-	-	-	-	-	-	-	-	-	-	-	ITRFQTLLA	137.90	0.15	0.15	-	-	-	-
+HLA-DRB1*04:15	1	232	248	17	NetMHCIIpan	GINITRFQTLLALHRSY	0.09	0.15	-	-	-	-	-	-	-	-	-	-	-	-	FQTLLALHR	107.81	0.09	0.15	-	-	-	-
+HLA-DRB1*04:12	1	232	249	18	NetMHCIIpan	GINITRFQTLLALHRSYL	0.05	0.15	-	-	-	-	-	-	-	-	-	-	-	-	ITRFQTLLA	171.23	0.05	0.15	-	-	-	-
+HLA-DRB1*04:15	1	232	249	18	NetMHCIIpan	GINITRFQTLLALHRSYL	0.05	0.15	-	-	-	-	-	-	-	-	-	-	-	-	FQTLLALHR	111.48	0.05	0.15	-	-	-	-
+HLA-DRB1*04:12	1	231	246	16	NetMHCIIpan	IGINITRFQTLLALHR	0.13	0.15	-	-	-	-	-	-	-	-	-	-	-	-	ITRFQTLLA	167.56	0.13	0.15	-	-	-	-
+HLA-DRB1*04:15	1	233	250	18	NetMHCIIpan	INITRFQTLLALHRSYLT	0.05	0.15	-	-	-	-	-	-	-	-	-	-	-	-	FQTLLALHR	107.77	0.05	0.15	-	-	-	-
+HLA-DRB1*12:15	1	234	249	16	NetMHCIIpan	NITRFQTLLALHRSYL	0.13	0.15	-	-	-	-	-	-	-	-	-	-	-	-	FQTLLALHR	91.03	0.13	0.15	-	-	-	-
+HLA-DRB1*04:15	1	234	251	18	NetMHCIIpan	NITRFQTLLALHRSYLTP	0.05	0.15	-	-	-	-	-	-	-	-	-	-	-	-	FQTLLALHR	109.97	0.05	0.15	-	-	-	-
+HLA-DRB1*12:15	1	236	251	16	NetMHCIIpan	TRFQTLLALHRSYLTP	0.13	0.15	-	-	-	-	-	-	-	-	-	-	-	-	FQTLLALHR	90.50	0.13	0.15	-	-	-	-
+
+
+
+
+Из B
+FAMQMAYRF 0.96
+MHC-II Binding Prediction Results
+-----------
+Method used: recommended
+allele	seq_num	start	end	length	method	peptide	percentile_rank	adjusted_rank	comblib_core	comblib_score	comblib_rank	comblib_adjusted_rank	smm_align_core	smm_align_ic50	smm_align_rank	smm_align_adjusted_rank	nn_align_core	nn_align_ic50	nn_align_rank	nn_align_adjusted_rank	netmhciipan_core	netmhciipan_ic50	netmhciipan_rank	netmhciipan_adjusted_rank	sturniolo_core	sturniolo_score	sturniolo_rank	sturniolo_adjusted_rank
+HLA-DRB1*15:12	1	370	384	15	NetMHCIIpan	ALQIPFAMQMAYRFN	0.96	0.96	-	-	-	-	-	-	-	-	-	-	-	-	FAMQMAYRF	89.93	0.96	0.96	-	-	-	-
+HLA-DRB1*15:12	1	371	384	14	NetMHCIIpan	LQIPFAMQMAYRFN	0.89	0.96	-	-	-	-	-	-	-	-	-	-	-	-	FAMQMAYRF	95.91	0.89	0.96	-	-	-	-
+HLA-DRB1*15:12	1	371	386	16	NetMHCIIpan	LQIPFAMQMAYRFNGI	0.86	0.99	-	-	-	-	-	-	-	-	-	-	-	-	FAMQMAYRF	98.34	0.86	0.99	-	-	-	-
+
+Из С (Е)
+HLA-DRB1*04:12	1	28	41	14	NetMHCIIpan	LVTLAILTALRLCA	0.30	0.32
+HLA-DRB1*04:12	1	29	41	13	NetMHCIIpan	VTLAILTALRLCA	0.21	0.33
+HLA-DRB1*04:12	1	28	39	12	NetMHCIIpan	LVTLAILTALRL	0.12	0.36
+HLA-DRB1*04:12	1	27	39	13	NetMHCIIpan	LLVTLAILTALRL	0.25	0.39
+HLA-DRB1*04:12	1	29	42	14	NetMHCIIpan	VTLAILTALRLCAY	0.41	0.44
+HLA-DRB1*04:12	1	28	40	13	NetMHCIIpan	LVTLAILTALRLC	0.31	0.48
+HLA-DRB1*04:12	1	26	39	14	NetMHCIIpan	FLLVTLAILTALRL	0.59	0.64
+HLA-DRB1*04:12	1	27	40	14	NetMHCIIpan	LLVTLAILTALRLC	0.59	0.64
+HLA-DRB1*04:12	1	30	42	13	NetMHCIIpan	TLAILTALRLCAY	0.43	0.67
+HLA-DRB1*04:12	1	27	41	15	NetMHCIIpan	LLVTLAILTALRLCA	0.68	0.68
+HLA-DRB1*04:12	1	28	42	15	NetMHCIIpan	LVTLAILTALRLCAY	0.71	0.71
+HLA-DRB1*04:12	1	29	40	12	NetMHCIIpan	VTLAILTALRLC	0.24	0.71
+HLA-DRB1*04:12	1	30	41	12	NetMHCIIpan	TLAILTALRLCA	0.25	0.74
+HLA-DRB1*12:04	1	29	41	13	NetMHCIIpan	VTLAILTALRLCA	0.60	0.94
+HLA-DRB1*12:04	1	29	42	14	NetMHCIIpan	VTLAILTALRLCAY	0.93	1.00
+HLA-DRB1*12:04	1	30	42	13	NetMHCIIpan	TLAILTALRLCAY	0.65	1.01
+HLA-DRB1*12:04	1	27	39	13	NetMHCIIpan	LLVTLAILTALRL	0.67	1.04
+HLA-DRB1*12:04	1	28	39	12	NetMHCIIpan	LVTLAILTALRL	0.35	1.04
